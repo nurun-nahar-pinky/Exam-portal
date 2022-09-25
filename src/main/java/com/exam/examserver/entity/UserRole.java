@@ -45,4 +45,5 @@ public class UserRole {
     public void setRole(Role role) {
         this.role = role;
     }
+    //git commit
 }
